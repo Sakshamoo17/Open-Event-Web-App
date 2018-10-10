@@ -155,7 +155,6 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## Maintainers
 The project is maintained by
-- Arnav Gupta ([@championswimmer](https://github.com/championswimmer))
-- Aayush Arora ([@aayusharora](https://github.com/aayusharora))
-- Mario Behling ([@mariobehling](http://github.com/mariobehling))
-- Justin Lee ([@juslee](http://github.com/juslee))
+-Saksham Sharma
+-Avni Bhardwaj
+-Pankaj M. Patidar
