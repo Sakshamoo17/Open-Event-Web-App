@@ -157,6 +157,5 @@ You should have received a copy of the GNU General Public License along with thi
 The project is maintained by
 -Saksham Sharma <br>
 -Avni Bhardwaj <br>
--Pankaj M. Patidar <br>
 <br>
-................................................................
+*************************************************************
